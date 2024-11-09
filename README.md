@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SQL Project's**
 
-- 🌱 I’m currently learning **SQL and Power BI**
+- 🌱 I’m currently  Learning and Seeking opportunities **for SQL and Power BI** for Learning the depth of the future tools.
 
 - 🤝 I’m looking for help with **Python for Data Analyst**
 
